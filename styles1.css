@@ -3,5 +3,11 @@ progress,
 .core-progress-text {
 display: none !important;
 }
+div.progress-text {display: none;}
+.core-progress-bar
+progress,
+.core-progress-text {
+display: none;
+}
 
 
